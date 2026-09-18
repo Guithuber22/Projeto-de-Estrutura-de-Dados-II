@@ -1,6 +1,6 @@
 # Estruturas de Dados II — ordenação simples
-
-Projeto da atividade de 2026.2. Esta etapa cobre os passos 1 a 3 e responde às perguntas 1 a 3 da seção **Responda**. As perguntas 4 e 5 ficam para a continuação do grupo.
+Alunos: Guilherme de Almeida e Castro - 5170584
+        Wanderson Santos Lemos - 5170227
 
 ## Como executar
 
@@ -25,7 +25,7 @@ Os dados aleatórios seguem a faixa `0` a `size*size - 1` do enunciado. A sement
 - **Tempo:** medido apenas durante a ordenação. A construção da lista, a cópia dos dados e a validação ficam fora do cronômetro.
 - A lista é simplesmente ligada. Para comparar os algoritmos sobre a mesma estrutura, os nós permanecem no lugar e seus valores são trocados ou deslocados.
 
-## Respostas às três primeiras perguntas
+## Respostas:
 
 ### 1. Qual algoritmo teve mais comparações?
 
@@ -40,9 +40,3 @@ No caso médio de 10.000 valores, Selection fez 49.995.000 comparações, Bubble
 ### 3. Existe relação entre o número de trocas e a eficiência?
 
 **Sim, mas a quantidade de trocas sozinha não determina o tempo.** No caso médio de 10.000 valores em array, Selection fez 9.992 trocas e levou 2,435 s; Bubble fez 25.366.480 trocas e levou 5,451 s. Esse par sugere que muitas trocas podem custar tempo. Porém Selection manteve 49.995.000 comparações mesmo no melhor caso, enquanto Bubble e Insertion em array terminaram rapidamente com apenas 9.999 comparações e nenhuma troca ou deslocamento. A estrutura de dados e a forma de acesso também influenciam o tempo: no caso médio de 10.000 valores, Bubble levou 5,451 s em array e 7,591 s em lista ligada, embora as contagens tenham sido iguais.
-
-Os tempos acima são de uma execução nesta máquina; podem variar em outra máquina. As contagens são determinísticas com a semente informada.
-
-## Para a continuação do grupo
-
-As perguntas **4 e 5** ainda precisam ser respondidas. O arquivo CSV e os gráficos existentes fornecem os dados para análise; a questão 4 pede também gráficos de linha de tamanho × tempo no caso médio e comparação com a complexidade teórica. Ao acrescentar essa parte, mantenha os resultados atuais ou gere uma nova execução e identifique a máquina usada.

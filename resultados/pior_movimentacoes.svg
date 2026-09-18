@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610">
+<rect width="1180" height="610" fill="white"/>
+<text x="70" y="38" font-family="Arial" font-size="22">Trocas / movimentações — caso pior</text>
+<line x1="75" y1="510" x2="1140" y2="510" stroke="#333"/>
+<rect x="95" y="509.00" width="21" height="1.00" fill="#2563eb"/>
+<rect x="121" y="509.00" width="21" height="1.00" fill="#93c5fd"/>
+<rect x="147" y="510.00" width="21" height="0.00" fill="#dc2626"/>
+<rect x="173" y="510.00" width="21" height="0.00" fill="#fca5a5"/>
+<rect x="199" y="509.00" width="21" height="1.00" fill="#16a34a"/>
+<rect x="225" y="509.00" width="21" height="1.00" fill="#86efac"/>
+<text x="140" y="535" font-family="Arial" font-size="14">500</text>
+<rect x="305" y="506.00" width="21" height="4.00" fill="#2563eb"/>
+<rect x="331" y="506.00" width="21" height="4.00" fill="#93c5fd"/>
+<rect x="357" y="510.00" width="21" height="0.00" fill="#dc2626"/>
+<rect x="383" y="510.00" width="21" height="0.00" fill="#fca5a5"/>
+<rect x="409" y="506.00" width="21" height="4.00" fill="#16a34a"/>
+<rect x="435" y="506.00" width="21" height="4.00" fill="#86efac"/>
+<text x="350" y="535" font-family="Arial" font-size="14">1000</text>
+<rect x="515" y="474.02" width="21" height="35.98" fill="#2563eb"/>
+<rect x="541" y="474.02" width="21" height="35.98" fill="#93c5fd"/>
+<rect x="567" y="509.99" width="21" height="0.01" fill="#dc2626"/>
+<rect x="593" y="509.99" width="21" height="0.01" fill="#fca5a5"/>
+<rect x="619" y="474.02" width="21" height="35.98" fill="#16a34a"/>
+<rect x="645" y="473.99" width="21" height="36.01" fill="#86efac"/>
+<text x="560" y="535" font-family="Arial" font-size="14">3000</text>
+<rect x="725" y="410.03" width="21" height="99.97" fill="#2563eb"/>
+<rect x="751" y="410.03" width="21" height="99.97" fill="#93c5fd"/>
+<rect x="777" y="509.98" width="21" height="0.02" fill="#dc2626"/>
+<rect x="803" y="509.98" width="21" height="0.02" fill="#fca5a5"/>
+<rect x="829" y="410.03" width="21" height="99.97" fill="#16a34a"/>
+<rect x="855" y="409.99" width="21" height="100.01" fill="#86efac"/>
+<text x="770" y="535" font-family="Arial" font-size="14">5000</text>
+<rect x="935" y="110.08" width="21" height="399.92" fill="#2563eb"/>
+<rect x="961" y="110.08" width="21" height="399.92" fill="#93c5fd"/>
+<rect x="987" y="509.96" width="21" height="0.04" fill="#dc2626"/>
+<rect x="1013" y="509.96" width="21" height="0.04" fill="#fca5a5"/>
+<rect x="1039" y="110.08" width="21" height="399.92" fill="#16a34a"/>
+<rect x="1065" y="110.00" width="21" height="400.00" fill="#86efac"/>
+<text x="980" y="535" font-family="Arial" font-size="14">10000</text>
+<text x="75" y="570" font-family="Arial" font-size="13">Máximo: 50,004,999.000</text>
+<rect x="330" y="547" width="13" height="13" fill="#2563eb"/>
+<text x="349" y="558" font-family="Arial" font-size="13">bubble/array</text>
+<rect x="590" y="547" width="13" height="13" fill="#93c5fd"/>
+<text x="609" y="558" font-family="Arial" font-size="13">bubble/ligada</text>
+<rect x="850" y="547" width="13" height="13" fill="#dc2626"/>
+<text x="869" y="558" font-family="Arial" font-size="13">selection/array</text>
+<rect x="330" y="569" width="13" height="13" fill="#fca5a5"/>
+<text x="349" y="580" font-family="Arial" font-size="13">selection/ligada</text>
+<rect x="590" y="569" width="13" height="13" fill="#16a34a"/>
+<text x="609" y="580" font-family="Arial" font-size="13">insertion/array</text>
+<rect x="850" y="569" width="13" height="13" fill="#86efac"/>
+<text x="869" y="580" font-family="Arial" font-size="13">insertion/ligada</text>
+</svg>

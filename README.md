@@ -1,6 +1,6 @@
 # Estruturas de Dados II — ordenação simples
 Alunos: Guilherme de Almeida e Castro - 5170584
-        Wanderson Santos Lemos - 5170227
+       / Wanderson Santos Lemos - 5170227
 
 ## Como executar
 
